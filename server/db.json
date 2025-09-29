@@ -1,0 +1,25 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year": 1925,
+            "category": "Novel"
+        },
+        {
+            "id": "2",
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "year": 1988,
+            "category": "Science"
+        },
+        {
+            "id": "3",
+            "title": "Sapiens",
+            "author": "Yuval Noah Harari",
+            "year": 2011,
+            "category": "History"
+        }
+    ]
+}
